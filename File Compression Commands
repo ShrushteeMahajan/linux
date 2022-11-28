@@ -1,0 +1,13 @@
+# linu
+Command Synopsis
+1 tar –cvf newarchive.tar file Create new .tar archive with name newarchive and containing file.
+2 tar –cvzf newarchive.tar.gz files Create new Gzip (.gz) file.
+3 tar –cvjf newarchive.tar.bz2 files Create new Bzip2 (.bz2) file.
+4 tar –xvf archive.tar Extract contents of .tar file to current folder.
+5 tar –xvf archive.tar –C /dest/directory Extract contents of .tar file to specified folder.
+6 tar –xvzf archive.tar Extract contents of .gz file.
+7 tar –xvjf archive.tar Extract contents of .bz2 file.
+8 tar –tvf archive.tar List contents of .tar archive. Same command can be used to view 
+contents of .gz and .bz2 archives as well.
+9 gzip file Compresses the file and renames it to file.gz.
+10 gzip –d file.gz Decompresses file.gz
