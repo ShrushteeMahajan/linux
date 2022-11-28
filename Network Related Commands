@@ -1,0 +1,8 @@
+# linux
+Command Synopsis
+1 ping hostname Pings host to check if it is alive or not.
+2 whois domain Performs whois operation and gets info about domain.
+3 dig domain Displays DNS info about domain.
+4 dig –x host Reverse lookup host.
+5 wget file Download file.
+6 wget –c file Continue a stopped download.
