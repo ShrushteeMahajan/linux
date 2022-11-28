@@ -1,0 +1,8 @@
+# linux
+c – Create an archive file.
+-x – Extract an archive file.
+-v – Show the process verbosely.
+-t – View contents of archive file.
+-z – Filter archives through gzip (.gz).
+-j – Filter archives through bzip2 (.bz2).
+-r – Append files (or directories) to existing archive
