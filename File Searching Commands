@@ -1,0 +1,3 @@
+# linux
+Command Synopsis
+1 chmod octalvalue file Change permissions of the file as per the octal value.
