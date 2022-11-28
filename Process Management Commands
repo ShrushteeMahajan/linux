@@ -1,0 +1,10 @@
+# linux
+Command Synopsis
+1 ps Display current working processes.
+2 pop Display all running processes.
+3 kill pid Kill the process with given pid.
+4 killall proc kill all processes named proc.
+5 pkill pattern Kill all processes matching the pattern.
+6 bg List stopped or background processes. Resume a stopped job.
+7 fg Bring the recent job to foreground.
+8 fg n Bring job n to foreground.
