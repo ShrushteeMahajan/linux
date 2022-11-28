@@ -1,0 +1,18 @@
+# linux
+Command Synopsis
+1 date Shows current date and time.
+2 cal Shows current month’s calendar.
+3 whoami Displays the username of the logged in user.
+4 w List of all logged in users with username, login time, etc.
+5 finger user Displays username, login, home directory, shell, etc.
+6 uptime Tells how long the system is running.
+7 df Displays the amount of free disc space on all file systems.
+8 du file Displays the disc spaced used by the argument (file or dir).
+9 free Displays memory and swap space details.
+10 uname –a Shows hardware and software information (arch, Kernel, etc.)
+11 man command Displays manual pages of the command.
+12 whereis app Displays source/binary, manual pages of an application (file).
+13 whatis command Brief description about commands.
+14 which –a file Searches all directories and displays all files with same name.
+15 cat /proc/cpuinfo Displays CPU information.
+16 cat /proc/meminfo Displays Memory information.
