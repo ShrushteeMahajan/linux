@@ -1,0 +1,21 @@
+Command Synopsis
+1 ls List out files and directories.
+2 ls –a List out all files and directories including hidden ones.
+3 ls –l Long format listing with additional details like owner, file type, size, timestamps, etc.
+4 cd dir Change working directory to dir.
+5 cd or cd ~ Move to user’s home directory.
+6 cd .. Move back to the parent directory.
+7 cd / Change to root directory.
+8 pwd Display the current working directory.
+9 mkdir dir Create a directory called dir.
+10 rmdir dir Deletes an empty directory.
+11 rm file Delete the file.
+12 rm –r dir Deletes the directory and its contents.
+13 rm –f file Force to delete the file.
+14 rm –rf dir Force to delete the directory (and its contents).
+15 cat file Displays the contents of file.
+16 cp file1 file2 Copy contents of file1 to file2
+17 cp –r dir1 dir2 Copy contents of dir1 to dir2. Creates dir2, if not present.
+18 mv file1 file2 Rename or move file1 to file2. To move, file2 directory should be existing.
+19 touch file Creates a file (if not present) or updates timestamps.
+20 more file View files line by line or screen by screen.
